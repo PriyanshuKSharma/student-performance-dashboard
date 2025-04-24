@@ -25,7 +25,6 @@
 
 <p align="center">
   <img src="images/model.jpg" width="600"/>
-  <img src="images/visualizations.jpg" width="600"/>
 </p>
 
 
@@ -92,6 +91,10 @@ streamlit run dashboard.py
 ```
 
 🔗 Open in browser: [http://localhost:8501](http://localhost:8501)
+
+<p align="center">
+  <img src="images/visualizations.jpg" width="600"/>
+</p>
 
 ### 🎯 Features
 
