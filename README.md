@@ -23,8 +23,11 @@
 
 > *Live Demo* (Deploy to [Streamlit Cloud](https://streamlit.io/cloud) or run locally)
 
-![Dashboard Model Matrics](images\model.jpg)
-![Dashboard Visualization](images\visualizations.jpg) 
+<p align="center">
+  <img src="images/model.jpg" width="600"/>
+  <img src="images/visualizations.jpg" width="600"/>
+</p>
+
 
 
 ## 📌 Project Overview
