@@ -1,4 +1,4 @@
-<h1 align="center">📊 Student Performance Dashboard</h1>
+<h1 align="center">🎓 Student Performance Dashboard</h1>
 
 <p align="center">
   <b>Analyze, Visualize, and Predict student performance using Python, Streamlit, and Vertex AI!</b><br>
@@ -198,4 +198,5 @@ This is for educational purpose.
 ---
 
 ⭐ **If you found this project helpful, please consider giving it a star!** 🌟
+
 ```
