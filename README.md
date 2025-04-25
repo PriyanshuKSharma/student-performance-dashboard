@@ -198,7 +198,7 @@ This is for educational purpose.
 ## 📬 Contact
 
 **👨‍💻 Priyanshu Kumar Sharma**  
-📧 [priyanshuksharma.dev@gmail.com](mailto:priyanshu17ksv@gmail.com)  
+📧 [priyanshu17ks@gmail.com](mailto:priyanshu17ks@gmail.com)  
 🔗 [GitHub](https://github.com/PriyanshuKSharma)
 
 ---
